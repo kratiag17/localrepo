@@ -1,3 +1,7 @@
 p{
   color:palegreen ;
 }
+a{
+  text-decoration: none;
+  font-style: italic;
+}
